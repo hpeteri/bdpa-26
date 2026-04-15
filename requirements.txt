@@ -1,0 +1,7 @@
+pyspark==3.5.0
+graphframes
+pandas
+matplotlib
+networkx
+notebook
+six
